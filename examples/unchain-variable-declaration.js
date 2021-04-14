@@ -1,3 +1,4 @@
+// Added comments
 const world: string = 'world',
       p: number | undefined = 42;
 
